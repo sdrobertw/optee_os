@@ -759,3 +759,5 @@ thereafter it should be possible to use one of the different checkpatch targets
 in the [Makefile](Makefile). There are targets for checking all files, checking
 against latest commit, against a certain base-commit etc. For the details, read
 the [Makefile](Makefile).
+
+This is a test
